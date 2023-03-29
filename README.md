@@ -1,9 +1,7 @@
+#  <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/>
 
-<div id="header" align="center">
-  <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/>
-</div>
  
-## 🛠 Primary Tech Stack 
+## 🛠 Tech Stack 
 
 ### Programming Languages
 
