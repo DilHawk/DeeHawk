@@ -1,9 +1,6 @@
-<article class="wrapper">
-  <header>
-    <h1 class="pageTitle"> Build-My-Battlestation</h1>
-    <img src="image/drn.gif" alt="Sample Page">
-   
-  </header>
+<div id="header" align="center">
+  <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/>
+</div>
  
 ## 🛠 Primary Tech Stack 
 
