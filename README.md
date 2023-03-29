@@ -1,6 +1,10 @@
-
-
-
+<article class="wrapper">
+  <header>
+    <h1 class="pageTitle"> Build-My-Battlestation</h1>
+    <img src="image/drn.gif" alt="Sample Page">
+   
+  </header>
+ 
 ## 🛠 Primary Tech Stack 
 
 ### Programming Languages
