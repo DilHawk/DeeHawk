@@ -1,4 +1,4 @@
-<img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/> #
+<img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/> 
 
  
 ## 🛠 Tech Stack 
