@@ -7,7 +7,7 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-https://cdn-icons-png.flaticon.com/512/7531/7531782.png
+<img src=https://cdn-icons-png.flaticon.com/512/7531/7531782.png width="50"/> 
 
 ### Data Analysis
 
