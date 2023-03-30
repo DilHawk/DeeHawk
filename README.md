@@ -5,9 +5,10 @@
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<img src=https://cdn-icons-png.flaticon.com/512/7531/7531782.png width="50"/> 
+
+<img src=https://cdn-icons-png.flaticon.com/512/7531/7531782.png width="50"/> <img src=https://user-images.githubusercontent.com/26994982/228696321-32999e86-0ceb-4131-8f6a-10dcf5b6be5d.png width="50"/> <img src=https://cdn-icons-png.flaticon.com/512/2535/2535543.png width="50"/>
+
+
 
 ### Data Analysis
 
