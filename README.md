@@ -1,4 +1,4 @@
-#  <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/>
+# <head> <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/></head>
 
  
 ## 🛠 Tech Stack 
@@ -7,7 +7,7 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+https://cdn-icons-png.flaticon.com/512/7531/7531782.png
 
 ### Data Analysis
 
