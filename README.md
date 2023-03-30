@@ -1,6 +1,6 @@
 # <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/> 
 
-⌘ Software Tech Stack  <a name="TOP"></a>
+⌘ Software  Technology & Tools  <a name="TOP"></a>
 ===================
 <details>  
 <summary> Programming Languages & Tools </summary>
