@@ -1,4 +1,4 @@
-<img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/> 
+# <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/> 
 
  
 ## 🛠 Tech Stack 
@@ -21,8 +21,8 @@
 
 
 ### Databases
+<img src=https://cdn-icons-png.flaticon.com/512/4492/4492311.png width="50"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend Development
 
