@@ -33,16 +33,18 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%"/></code>
 <code><img src="https://cdn0.iconfinder.com/data/icons/upload-download-files/128/file_xlsx_excel_document_upload-27-256.png" width="5%"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="5%"/></code>
-<code><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_powerpoint-256.png" width="5%"/></code></p></details>
-
-<details><summary>Cloud Hosting:</summary><p>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="5%"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="5%"/></code></p></details>
+<code><img src="https://cdn4.iconfinder.com/data/icons/Office_dock_icons_by_arrioch/color/Color%20MS%20Access.png" width="5%"/></code></p></details>
 
 <details><summary> Data Visualization: </summary><p>
 <code><img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-256.png" width="5%"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="5%"/></code>
 <code><img src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/powerpoint_windows_office_software-256.png" width="5%"/></code></p></details>
+
+<details><summary>Cloud Hosting:</summary><p>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="5%"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="5%"/></code></p></details>
+
+
 
 
 ## ⚡Soft Skills:
