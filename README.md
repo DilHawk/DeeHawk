@@ -21,10 +21,14 @@
 
 <details> 
 <summary> Frontend Development: </summary>
-<p><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="5%"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="5%"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="5%"/></code>
+<p><code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/html-512.png" width="5%"/></code>
+<code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/css-512.png" width="5%"/></code>
+<code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/jquery-256.png" width=5%"/></code>
+<code><img src="https://cdn0.iconfinder.com/data/icons/social-36/66/49-256.png" width="5%"/></code>
+<code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-512.png" width="5%"/></code>
+<code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/boostrap-512.png" width="5%"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="5%"/></code></p></details>
+  
 
 <details> 
 <summary>Databases: </summary>
@@ -46,8 +50,9 @@
 🌟 
 🌟 
 
-[Go To TOP](#TOP)
+
   
               
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deehawk&theme=aura&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deehawk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[Go To TOP](#TOP)
