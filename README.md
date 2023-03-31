@@ -1,48 +1,48 @@
 # <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/> 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+enjoy+technology;If+you+need+to+build+your+website;email+me)](https://git.io/typing-svg)
+<a name="TOP"></a>
+
+<img src="https://user-images.githubusercontent.com/26994982/229019545-75e574b6-bee2-49cf-90c0-2ae03ce51085.png" width="2%"/> Software, Technology & Tools 
 
 
-⌘ Software,  Technology & Tools  <a name="TOP"></a>
-
-<details>  
-<summary> Programming Languages: </summary>
-<p><code><img src=https://cdn-icons-png.flaticon.com/512/7531/7531782.png width="5%"/></code>
+<details><summary> Programming Languages:</summary><p>
+<code><img src=https://cdn-icons-png.flaticon.com/512/7531/7531782.png width="5%"/></code>
 <code><img src=https://user-images.githubusercontent.com/26994982/228696321-32999e86-0ceb-4131-8f6a-10dcf5b6be5d.png width="5%"/></code>
 <code><img src=https://cdn-icons-png.flaticon.com/512/2535/2535543.png width="5%"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="5%"/></code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="5%"/> </code></p></details>  
 
-<details>
-<summary> Techonology/Environment: </summary> 
-<p><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" width="5%"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="5%"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="5%"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="5%"/></code></p></details>
+<details><summary>Techonology/Environment:</summary><p>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" width="5%"/></code>
+<code><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-256.png" width="5%"/></code>
+<code><img src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-1/24/apple-256.png" width="5%"/></code>
+<code><img src="https://cdn3.iconfinder.com/data/icons/iconshock_developer/linux.png" width="5%"/></code>
+<code><img src="https://cdn2.iconfinder.com/data/icons/metro-ui-icon-set/512/Office_15.png" width="5%"/></code></p></details>
 
-<details> 
-<summary> Frontend Development: </summary>
-<p><code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/html-512.png" width="5%"/></code>
+<details><summary> Frontend Development: </summary><p>
+<code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/html-512.png" width="5%"/></code>
 <code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/css-512.png" width="5%"/></code>
-<code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/jquery-256.png" width=5%"/></code>
+<code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/jquery-256.png" width="5%"/></code>
 <code><img src="https://cdn0.iconfinder.com/data/icons/social-36/66/49-256.png" width="5%"/></code>
 <code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/github-512.png" width="5%"/></code>
 <code><img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/boostrap-512.png" width="5%"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="5%"/></code></p></details>
   
 
-<details> 
-<summary>Databases: </summary>
-<p><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="7%"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="7%"/></code></p></details>
+<details><summary>Databases: </summary><p>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%"/></code>
+<code><img src="https://cdn0.iconfinder.com/data/icons/upload-download-files/128/file_xlsx_excel_document_upload-27-256.png" width="5%"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="5%"/></code>
+<code><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_powerpoint-256.png" width="5%"/></code></p></details>
 
-<details> 
-<summary> Cloud Hosting: </summary>
-<p><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="10%"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="7%"/></code></p></details>
+<details><summary>Cloud Hosting:</summary><p>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="5%"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="5%"/></code></p></details>
 
-<details> 
-<summary> Data Analysis: </summary> 
-<p><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="10%"/></code></p></details>
+<details><summary> Data Visualization: </summary><p>
+<code><img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-256.png" width="5%"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="5%"/></code>
+<code><img src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/powerpoint_windows_office_software-256.png" width="5%"/></code></p></details>
 
 
 ## ⚡Soft Skills:
