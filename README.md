@@ -45,16 +45,32 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="5%"/></code></p></details>
 
 
+ ### My typical days
 
 
-## ⚡Soft Skills:
+<br />
+
+<p align="center">
+   <img src="https://media3.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif?cid=ecf05e47bohxadc28otwjhdzm2ydt6elh1kah4167isgh33o&rid=giphy.gif&ct=g" />
+   </p>
+   
+   
+
+
+## 
+
+⚡Soft Skills:
 🌟 
 🌟 
 🌟 
 
 
-  
+
+
               
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deehawk&theme=aura&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deehawk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[Go To TOP](#TOP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deehawk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+Go To TOP](#TOP)
