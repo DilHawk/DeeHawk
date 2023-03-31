@@ -2,10 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+enjoy+technology;If+you+need+to+build+your+website;email👋+me)](https://git.io/typing-svg)
 <a name="TOP"></a>
 
-<img src="https://user-images.githubusercontent.com/26994982/229019545-75e574b6-bee2-49cf-90c0-2ae03ce51085.png" width="2%"/> Software, Technology & Tools 
+<img src="https://user-images.githubusercontent.com/26994982/229019545-75e574b6-bee2-49cf-90c0-2ae03ce51085.png" width="2%"/> Software, Technology & Tools:
 
-
-<details><summary> Programming Languages:</summary><p>
+<details><summary> 🚀 Programming Languages:</summary><p>
 <code><img src=https://cdn-icons-png.flaticon.com/512/7531/7531782.png width="5%"/></code>
 <code><img src=https://user-images.githubusercontent.com/26994982/228696321-32999e86-0ceb-4131-8f6a-10dcf5b6be5d.png width="5%"/></code>
 <code><img src=https://cdn-icons-png.flaticon.com/512/2535/2535543.png width="5%"/></code>
@@ -50,12 +49,10 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="25%"/>
    </p>
    
-   
-
-## 
+ ## 
 
 ⚡Soft Skills:
 🌟 
@@ -69,7 +66,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deehawk&theme=aura&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deehawk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-
