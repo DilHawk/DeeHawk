@@ -10,7 +10,7 @@
 <code><img src=https://user-images.githubusercontent.com/26994982/228696321-32999e86-0ceb-4131-8f6a-10dcf5b6be5d.png width="5%"/></code>
 <code><img src=https://cdn-icons-png.flaticon.com/512/2535/2535543.png width="5%"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="5%"/></code>
-<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="5%"/> </code></p></details>  
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="5%"/></code></p></details>  
 
 <details><summary>Techonology/Environment:</summary><p>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" width="5%"/></code>
