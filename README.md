@@ -1,4 +1,4 @@
-# <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1000"/> 
+# <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1100"/> 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+enjoy+technology;If+you+need+to+build+your+website;email👋+me)](https://git.io/typing-svg)
 <a name="TOP"></a>
 
