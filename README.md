@@ -1,13 +1,12 @@
 <a name="readme-top"></a>
 # <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1100"/> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+enjoy+technology;If+you+need+to+build+your+website;email+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+enjoy+work+with+you;If+you+need+to+build+your+website;email+📧+me)](https://git.io/typing-svg)
 <a name="TOP"></a>
 
 
+## <img src="https://user-images.githubusercontent.com/26994982/229019545-75e574b6-bee2-49cf-90c0-2ae03ce51085.png" width="2%"/>*Software, Technology & Toolls I randomly use:*
 
-<img src="https://user-images.githubusercontent.com/26994982/229019545-75e574b6-bee2-49cf-90c0-2ae03ce51085.png" width="2%"/>*Software, Technology & Tools:*
-
-<details><summary> 🚀 Programming Languages:</summary><p>
+<details><summary>Programming Languages:</summary><p>
 <code><img src=https://cdn-icons-png.flaticon.com/512/7531/7531782.png width="5%"/></code>
 <code><img src=https://user-images.githubusercontent.com/26994982/228696321-32999e86-0ceb-4131-8f6a-10dcf5b6be5d.png width="5%"/></code>
 <code><img src=https://cdn-icons-png.flaticon.com/512/2535/2535543.png width="5%"/></code>
@@ -52,15 +51,13 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="25%"/>
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="30%"/>
    </p>
    
- ## 
+ ## ⚡Soft Skills:
 
-⚡Soft Skills:
-🌟 
-🌟 
-🌟 
+🚀 Self-Driven 🚀 Team building 🚀 Adaptability 🚀 Flexibility 🚀 Consultation 🚀Creativity 🚀 Integrity 🚀 Dedicated 🚀
+ 
 
 
               
