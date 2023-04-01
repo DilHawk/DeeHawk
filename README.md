@@ -46,13 +46,12 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="5%"/></code></p></details>
 
 
- ### My typical days:
+ ## My typical days:
 
 <br />
 
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="30%"/>
-   </p>
+<p align="left">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="30%"/><img src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e477ag3gbqhcjwgjuac4e0c1jmovsrsyil7188sn0pi&rid=giphy.gif&ct=g" width="30%"</p>
    
  ## ⚡Soft Skills:
 
