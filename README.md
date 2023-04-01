@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 # <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1100"/> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+enjoy+working+with+you;If+you+need+to+build+your+website;+or+need+consultation;email+📧+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+enjoy+working+with+you;If+you+need+to+build+your+website;+or+need+a+consultation;email+📧+me)](https://git.io/typing-svg)
 <a name="TOP"></a>
 
 
