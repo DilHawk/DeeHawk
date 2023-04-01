@@ -45,20 +45,17 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="5%"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="5%"/></code></p></details>
 
-
- ## My typical days:
-
-<br />
-
-<p align="left">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="30%"/><img src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e477ag3gbqhcjwgjuac4e0c1jmovsrsyil7188sn0pi&rid=giphy.gif&ct=g" width="30%"</p>
-   
  ## ⚡Soft Skills:
 
 🚀 Self-Driven 🚀 Team building 🚀 Adaptability 🚀 Flexibility 🚀 Consultation 🚀Creativity 🚀 Integrity 🚀 Dedicated 🚀
  
+ 
+ ## My typical days:
 
-
+<br />
+<p align="left">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="50%"/><img src="https://media2.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e477ag3gbqhcjwgjuac4e0c1jmovsrsyil7188sn0pi&rid=giphy.gif&ct=g" width="50%"</p>
+   
               
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deehawk&theme=aura&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deehawk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
