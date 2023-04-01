@@ -67,7 +67,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deehawk&theme=aura&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deehawk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-<p align="right"><a href="#readme-top">back to top</a></p>
+<p align="right">:<a href="#readme-top">back to top</a>:</p>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
