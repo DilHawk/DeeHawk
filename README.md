@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 # <img src="https://github.com/DeeHawk/TIS.io/blob/master/hawk.gif.gif" width="1100"/> 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+enjoy+working+with+you;If+you+need+to+build+your+website;+or+need+a+consultation;email+📧+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+interesting+and+intelligent;If+you+need+to+build+your+website;+or+need+a+consultation;email+📧+me)](https://git.io/typing-svg)
 <a name="TOP"></a>
 
-
+My development process is centered around clear communication and collaboration with clients. I work closely with each client to ensure that their needs are met, and I provide regular updates throughout the development process.
 ## <img src="https://user-images.githubusercontent.com/26994982/229019545-75e574b6-bee2-49cf-90c0-2ae03ce51085.png" width="2%"/>*Software, Technology & Tools I randomly use:*
 
 <details><summary>Programming Languages:</summary><p>
